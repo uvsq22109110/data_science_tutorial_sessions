@@ -1,1 +1,0 @@
-ax = sns.boxplot(x="is furnished", y="Rent(€)",data=df_housing, palette="Set1")

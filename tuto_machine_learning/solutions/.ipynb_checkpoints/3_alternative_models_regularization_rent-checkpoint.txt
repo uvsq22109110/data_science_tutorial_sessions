@@ -1,9 +1,0 @@
-lasso L1 norm -> When feature is highly correlated it could see its weight affected to zero
-Ridge L2 norm -> When feature is highly correlated it could see its weight too small too close to zero but not zero
-Elastic Net : combines ridge and lasso
-
-About the unicity:
-
-Lasso L1 non unique solution because L1 is not differentiable at zero
-Ridge L2 unique sum of two convexe functions so unique solution
-Elastic Net as combination of L1 and L2 the solution is not unique
