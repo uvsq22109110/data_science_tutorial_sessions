@@ -1,4 +1,0 @@
-Réponse : <br>
-**Le compromis biais variance** consiste à retrouver un modèle qui est au juste milieu c'est à dire qui reste capable d'apprendre correctement sur le jeu de données d'apprentissage et généraliser sur le jeu de données de test corréctement, c'est à dire avec des performances comparables.<br>
-**modèle à haute variance :** Overfitting où le modèle ne peut pas généraliser ce qu'il a appris, car il apprend même le bruit<br>
-**modèle à haut biais :** Underfitting où le modèle n'est pas capable d'apprendre des caractéristiques du jeu de données c'est à dire les relations entre les différentes variables<br>
