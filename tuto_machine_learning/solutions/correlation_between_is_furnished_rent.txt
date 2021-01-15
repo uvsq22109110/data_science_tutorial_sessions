@@ -1,0 +1,3 @@
+correlation between is furnished and rent :
+    Non car il s'agit d'une variable catégorielle et donc cela n'a pas de sens de calculer la corrélation. Pour le calcul de corrélation, il necéssite deux variables continues
+    

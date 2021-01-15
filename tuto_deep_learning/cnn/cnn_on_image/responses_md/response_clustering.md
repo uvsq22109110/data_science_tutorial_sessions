@@ -1,0 +1,7 @@
+1. What is ResNet and DenseNet121 ? What is the relation between these networks ? Could you describe the theoritical principles of DenseNets ?
+2. ImageNet is a large visual database designed. More than 14 million images have been hand-annotated by the project to indicate what objects are pictured and in at least one million of the images, bounding boxes are also provided. ImageNet contains more than 20,000 categories. Since 2010, the ImageNet project runs an annual software contest, the ImageNet Large Scale Visual Recognition Challenge (ILSVRC), where software programs compete to correctly classify and detect objects and scenes. ImageNet contains [Orange, Pizza, Pineapple] categories. To check the existing of a category : use this link http://image-net.org/search?q=pineapple 
+3. See code below
+4. Include Top is a parameter which load the dense layers if it is set as True. If it is not set (set to False), the loaded model will use only convolutional layers. In our case, we will load convolutional pre-trained layers from ImageNet. In this case, convolution weights are set and allow as to do some features extraction from images. This neural network is know as **Siamese Network**.
+5. See code below
+6. See code below
+7. See code below
