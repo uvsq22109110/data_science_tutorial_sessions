@@ -1,6 +1,6 @@
 ### Task 
 
-1. What is ResNet and DenseNet121 ? What is the relation between these networks ? Could you describe the theoritical principles of DenseNets ?
+1. What is DenseNet121 ? Could you describe the theoritical principles of DenseNets ?
 2. ImageNet (How many classes) and does it contain [Orange, Pizza, Pineapple] ? 
 3. Load DenseNet121 pretrained model and show its description (Architecture, Layer succession, Trainable parameters..) 
 4. What is the difference when you set a value for include_top [True, False] 
